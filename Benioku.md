@@ -1,4 +1,4 @@
-# Qubic.li - Client Türkçe Kazım Rehberi
+# Qubic.li - Client Türkçe Kazım Rehberi -TR
 Bu rehber (https://github.com/qubic-li/client?tab=readme-ov-file)' ın türkçeye çevirilmiş halidir.
 
 
